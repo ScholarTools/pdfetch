@@ -1,0 +1,2 @@
+class PDFError(Exception):
+    pass
